@@ -1,7 +1,11 @@
 ---
-layout: TOWARDS HIGH-FIDELITY SINGING VOICE CONVERSION WITH ACOUSTICREFERENCE AND CONTRASTIVE PREDICTIVE CODING
+layout: default
 ---
 
+<!-- <h1 align='center'><font size='10'> TOWARDS HIGH-FIDELITY SINGING VOICE CONVERSION WITH ACOUSTICREFERENCE AND CONTRASTIVE PREDICTIVE CODING </font></h1>
+
+<center>Zhonghao Li, Benlai Tang, Xiang Yin, Yuan Wan, Ling Xu, Chen Shen, Zejun Ma</center>
+ -->
 Paper: [arxiv](https://arxiv.org/abs/2010.14804)
 
 # Abstract

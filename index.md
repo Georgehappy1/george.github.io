@@ -21,3 +21,17 @@ The following audio samples are from the target female and male singers.
 | Female | <audio id="audio" controls="" preload="none" style="width: 250px;"> <source id="wav" src="audiofile/targe_timbre/female.wav"></audio> |
 | Male | <audio id="audio" controls="" preload="none" style="width: 250px;"> <source id="wav" src="audiofile/targe_timbre/male.wav"></audio> |
 
+## In Domain Singing Voice Conversion
+### Source Samples
+
+2 female singing audio and 2 male singing audio are presented as the source samples. The samples are from different singers.
+
+| | Samples |
+| --- | --- |
+| F1 | <audio id="audio" controls="" preload="none" style="height: 40px"> <source id="wav" src="audiofile/source_data/female_05_37.wav"></audio> |
+| F2 | <audio id="audio" controls="" preload="none" style="height: 40px"> <source id="wav" src="audiofile/source_data/female_05_3.wav"></audio> |
+| M1 | <audio id="audio" controls="" preload="none" style="height: 40px"> <source id="wav" src="audiofile/source_data/male_13_2.wav"></audio> |
+| M2 | <audio id="audio" controls="" preload="none" style="height: 40px"> <source id="wav" src="audiofile/source_data/male_05_30.wav"></audio> |
+
+
+

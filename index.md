@@ -29,7 +29,7 @@ The following audio samples are from the target female and male singers.
 | | Samples |
 | --- | --- |
 | F1 | <audio id="audio" controls="" preload="none" style="height: 40px"> <source id="wav" src="audiofile/source_data/female_05_37.wav"></audio> |
-| F2 | <audio id="audio" controls="" preload="none" style="height: 40px"> <source id="wav" src="audiofile/source_data/female_05_3.wav"></audio> |
+| F2 | <audio id="audio" controls="" preload="none" style="height: 40px"> <source id="wav" src="audiofile/source_data/female_05_37.wav"></audio> |
 | M1 | <audio id="audio" controls="" preload="none" style="height: 40px"> <source id="wav" src="audiofile/source_data/male_13_2.wav"></audio> |
 | M2 | <audio id="audio" controls="" preload="none" style="height: 40px"> <source id="wav" src="audiofile/source_data/male_05_30.wav"></audio> |
 

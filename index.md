@@ -18,6 +18,6 @@ The following audio samples are from the target female and male singers.
 
 | Target | Samples |
 |  ----  | ----  |
-| Female | <audio id="audio" controls="" preload="none" style="width: 250px;"> <source id="wav" src="audios/BB/gt/BB006F24I016.wav"></audio> <audio id="audio" controls="" preload="none" style="width: 250px;"> <source id="wav" src="audios/BB/gt/BB009F24I024.wav"></audio> |
-| Male | <audio id="audio" controls="" preload="none" style="width: 250px;"> <source id="wav" src="audios/AM2/gt/0003_048-03.wav"></audio> <audio id="audio" controls="" preload="none" style="width: 250px;"> <source id="wav" src="audios/AM2/gt/0006_041-08.wav"></audio> |
+| Female | <audio id="audio" controls="" preload="none" style="width: 250px;"> <source id="wav" src="audiofile/targe_timbre/female.wav"></audio> |
+| Male | <audio id="audio" controls="" preload="none" style="width: 250px;"> <source id="wav" src="audiofile/targe_timbre/male.wav"></audio> |
 

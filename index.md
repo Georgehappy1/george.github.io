@@ -2,9 +2,9 @@
 layout: default
 ---
 
- <h1 align='center'><font size='10'> TOWARDS HIGH-FIDELITY SINGING VOICE CONVERSION WITH ACOUSTICREFERENCE AND CONTRASTIVE PREDICTIVE CODING </font></h1>
+<!--  <h1 align='center'><font size='10'> TOWARDS HIGH-FIDELITY SINGING VOICE CONVERSION WITH ACOUSTICREFERENCE AND CONTRASTIVE PREDICTIVE CODING </font></h1> -->
 
-Paper: [arxiv](https://arxiv.org/abs/2010.14804)
+Paper: [arxiv](https://arxiv.org/abs/2110.04754)
 
 # Abstract
 

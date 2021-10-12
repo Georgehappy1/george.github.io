@@ -1,3 +1,5 @@
 title: TOWARDS HIGH-FIDELITY SINGING VOICE CONVERSION WITH ACOUSTICREFERENCE AND CONTRASTIVE PREDICTIVE CODING
 description: " "
 theme: jekyll-theme-cayman
+github:
+  is_project_page: false

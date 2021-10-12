@@ -61,7 +61,7 @@ The following audio samples are from the target female and male singers.
 ## Cross Domain Singing Voice Conversion
 
 ### Target Singers
-The following audio samples are from the target female and male singers.
+The following audio samples are from the target female and male speakers from VCTK.
 
 | Target | Samples |
 |  ----  | ----  |
